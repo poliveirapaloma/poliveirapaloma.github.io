@@ -7,7 +7,7 @@ tags: [sample-post, code, highlighting]
 image:
   feature: so-simple-sample-image-5.jpg
   credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  creditlink: https://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 comments: true
 share: true
 modified: 2016-06-01T14:11:53-04:00
@@ -15,7 +15,7 @@ modified: 2016-06-01T14:11:53-04:00
 
 Syntax highlighting is a feature that displays source code, in different colors and fonts according to the category of terms. This feature facilitates writing in a structured language such as a programming language or a markup language as both structures and syntax errors are visually distinct. Highlighting does not affect the meaning of the text itself; it is intended only for human readers.[^1]
 
-[^1]: <http://en.wikipedia.org/wiki/Syntax_highlighting>
+[^1]: <https://en.wikipedia.org/wiki/Syntax_highlighting>
 
 ### Highlighted Code Blocks
 

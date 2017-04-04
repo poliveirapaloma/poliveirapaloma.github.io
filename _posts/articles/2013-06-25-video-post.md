@@ -11,10 +11,10 @@ modified: 2016-06-01T14:18:26-04:00
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/pdSp4Y4GOQs" frameborder="0"> </iframe>
 
-Video embeds are responsive and scale with the width of the main content block with the help of [FitVids](http://fitvidsjs.com/).
+Video embeds are responsive and scale with the width of the main content block with the help of [FitVids](https://fitvidsjs.com/).
 
 ```html
-<iframe width="560" height="315" src="http://www.youtube.com/embed/PWf4WUoMXwg" frameborder="0"> </iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PWf4WUoMXwg" frameborder="0"> </iframe>
 ```
 
 And here's a Vimeo embed for testing purposes.

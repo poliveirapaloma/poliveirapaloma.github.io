@@ -5,7 +5,7 @@ locale: en_US
 description: Paloma Oliveira Marketing Consulting
 logo: site-logo.png
 search: true
-url: http://poliveirapaloma.github.io
+url: https://poliveirapaloma.github.io
 
 # Jekyll configuration
 
@@ -43,7 +43,7 @@ owner:
   twitter: #username
   facebook: #username
   github: #username
-  stackexchange: #http://stackoverflow.com/users/123456/username
+  stackexchange: #https://stackoverflow.com/users/123456/username
   linkedin: #username
   instagram: #username
   flickr: #username

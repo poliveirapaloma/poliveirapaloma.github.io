@@ -11,7 +11,7 @@ modified: 2016-06-01T14:18:57-04:00
 image:
   feature: so-simple-sample-image-7.jpg
   credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  creditlink: https://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
 For those of you who may have content written by multiple authors on your site you can now assign different authors to each post if desired.
@@ -25,7 +25,7 @@ Start by modifying or creating a new `authors.yml` file in the `_data` folder an
 
 billy_rick:
   name: Billy Rick
-  web: http://thewhip.com
+  web: https://thewhip.com
   email: billy@rick.com
   bio: "What do you want, jewels? I am a very extravagant man."
   avatar: bio-photo-2.jpg
