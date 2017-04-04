@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: Site Title
+title: Paloma Oliveira
 locale: en_US
-description: Describe your website here.
+description: Paloma Oliveira Marketing Consulting
 logo: site-logo.png
 search: true
-url: http://localhost:4000
+url: http://poliveirapaloma.github.io
 
 # Jekyll configuration
 
